@@ -5,7 +5,7 @@
 
 ## Auto-Clicker-Eclipse-Turbo-Tap
 
-[Try AUTO CLICK like a HUMAN!](https://github.com/yandeyka/Auto-Clicker-Eclipse-Turbo-Tap)
+[Try AUTO CLICK like a HUMAN](https://github.com/yandeyka/Auto-Clicker-Eclipse-Turbo-Tap)
 
 ## Project Info
 
