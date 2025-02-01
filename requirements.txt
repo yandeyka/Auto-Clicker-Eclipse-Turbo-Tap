@@ -1,0 +1,6 @@
+pyautogui
+keyboard
+threading
+math
+random
+time
