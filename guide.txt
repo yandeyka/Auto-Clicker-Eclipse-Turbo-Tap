@@ -8,3 +8,4 @@ KEYBINDS: F6 = ON, F7 = OFF
 =
 main.py SCRIPT START AFTER 10 SECOND
 =
+ 
