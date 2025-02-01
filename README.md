@@ -17,3 +17,4 @@ This auto-clicker simulates human-like clicking behavior with random timing and 
 * **Easy On/Off:** Toggle auto-clicking using F6 (ON) and F7 (OFF) keys.
 * **Randomized Clicking:**  Clicks are spaced randomly to mimic human actions.  This helps avoid detection by anti-automation systems.
 * **Pause Functionality:**  Includes a pause feature to temporarily stop auto-clicking.
+ 
