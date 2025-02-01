@@ -52,7 +52,7 @@ def start_new_session(keep_clicking_list, session_paused_list, delay_range):
         time.sleep(delay)
         total_clicks += 1
         pause_counter += 1
-        mouse_move_counter += 1  
+        mouse_move_counter += 1
 
         if pause_counter >= clicks_before_pause:
             pause_duration = random.uniform(0.0944156793, 34.6142141907)  
