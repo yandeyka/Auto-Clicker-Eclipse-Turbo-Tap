@@ -1,0 +1,8 @@
+1. install requirements.txt
+2. RUN main.py
+
+KEYBINDS: F6 = ON, F7 = OFF
+
+=
+main.py SCRIPT START AFTER 10 SECOND
+=
